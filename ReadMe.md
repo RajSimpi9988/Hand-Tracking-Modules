@@ -10,4 +10,6 @@
  
  NOTE!: The enviorment version of python should be 3.8.10 or lower to afford the compatibility of mediapipe
 
-THANKYOU!!!
+ HOPE YOU GUYS LIKE IT AND GIVE YOUR VALUABLE INPUTS TOO!!!!
+
+ THANKYOU!!!!!!!!!!
