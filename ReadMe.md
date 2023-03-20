@@ -8,3 +8,6 @@
    
  Multiple fuctionalities can be added to the project with addition of more external libraries.
  
+ NOTE!: The enviorment version of python should be 3.8.10 or lower to afford the compatibility of mediapipe
+
+THANKYOU!!!
